@@ -2,6 +2,8 @@
 
 ## Gapminder Clone
 
+Check out [here](https://chrisluo5311.github.io/Data_Science_7Project/gapminder_clone/gapminder_clone.html)
+
 ### Introduction
 
 This project, **"200 Countries, 200 Years, 4 Minutes,"** recreates the well-known data visualization *Hans Rosling's 200 Countries, 200 Years, 4 Minutes*. We used **pandas** and **sqlite3** to build the database, conducted exploratory validation with **matplotlib**, and finalized the product using **plotly.express**.
